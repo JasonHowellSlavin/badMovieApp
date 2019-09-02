@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JasonHowellSlavin/hypothesis_v2.git"
+    "url": "git+https://github.com/JasonHowellSlavin/badMovieApp"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JasonHowellSlavin/hypothesis_v2/issues"
+    "url": "https://github.com/JasonHowellSlavin/badMovieApp/issues"
   },
-  "homepage": "https://github.com/JasonHowellSlavin/hypothesis_v2#readme",
+  "homepage": "https://github.com/JasonHowellSlavin/badMovieApp",
   "engines": {
     "node": "8.x"
   },
