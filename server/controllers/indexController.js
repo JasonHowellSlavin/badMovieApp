@@ -1,6 +1,7 @@
 const axios = require('axios');
 
 exports.canned_response = function(req, res, next) {
+    console.log('server here');
     res.send({text: 'This is a canned response'});
 };
 
