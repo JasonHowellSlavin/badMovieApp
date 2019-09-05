@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Dashboard.scss';
+import './App.scss';
 import Viewer from '../Viewer/Viewer.js'
 import axios from 'axios';
 
@@ -35,13 +35,15 @@ class App extends Component {
         return (
             <div className="App">
                 <header className="App-header">
-                    <h1 className="App-title">Bad Movie App</h1>
+                    <h1 className="App-title">B</h1>
+                </header>
+                <section className={'main'}>
                     <section className={'add-movie'}>
                     </section>
                     <section className={'view-vote-comment'}>
                         <Viewer />
                     </section>
-                </header>
+                </section>
           </div>
         );
     }

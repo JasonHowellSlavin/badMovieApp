@@ -10,7 +10,7 @@ const stubMovieData = [
             {subject: 'This movie rules', comment: 'I love this movie cause it is soooo bad', user: 'KoiBoy', date: 'somedate'},
             {subject: 'This movie sucks', comment: 'Its just bad, not so bad it is good', user: 'MrFrapo', date: 'somedate'},
         ],
-        submitedBy: 'MrFrapo',
+        submittedBy: 'MrFrapo',
         userIP: '120.0.0.1'
     },
     {
@@ -24,7 +24,7 @@ const stubMovieData = [
             {subject: 'This movie rules', comment: 'I love this movie cause it is soooo bad', user: 'KoiBoy', date: 'somedate'},
             {subject: 'This movie sucks', comment: 'Its just bad, not so bad it is good', user: 'MrFrapo', date: 'somedate'},
         ],
-        submitedBy: 'MrFrapo',
+        submittedBy: 'MrFrapo',
         userIP: '120.0.0.1'
     },
     {
@@ -38,7 +38,7 @@ const stubMovieData = [
             {subject: 'This movie rules', comment: 'I love this movie cause it is soooo bad', user: 'KoiBoy', date: 'somedate'},
             {subject: 'This movie sucks', comment: 'Its just bad, not so bad it is good', user: 'MrFrapo', date: 'somedate'},
         ],
-        submitedBy: 'MrFrapo',
+        submittedBy: 'MrFrapo',
         userIP: '120.0.0.1'
     },
     {
@@ -52,7 +52,7 @@ const stubMovieData = [
             {subject: 'This movie rules', comment: 'I love this movie cause it is soooo bad', user: 'KoiBoy', date: 'somedate'},
             {subject: 'This movie sucks', comment: 'Its just bad, not so bad it is good', user: 'MrFrapo', date: 'somedate'},
         ],
-        submitedBy: 'MrFrapo',
+        submittedBy: 'MrFrapo',
         userIP: '120.0.0.1'
     },
     {
@@ -66,7 +66,7 @@ const stubMovieData = [
             {subject: 'This movie rules', comment: 'I love this movie cause it is soooo bad', user: 'KoiBoy', date: 'somedate'},
             {subject: 'This movie sucks', comment: 'Its just bad, not so bad it is good', user: 'MrFrapo', date: 'somedate'},
         ],
-        submitedBy: 'MrFrapo',
+        submittedBy: 'MrFrapo',
         userIP: '120.0.0.1'
     }
 ];
